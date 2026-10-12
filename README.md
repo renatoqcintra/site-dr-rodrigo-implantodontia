@@ -2,7 +2,7 @@
 
 Site institucional de uma página (one-page) para um consultório odontológico especializado em implantes dentários, feito com **HTML, CSS e JavaScript puro**, sem frameworks e sem etapa de build. O objetivo é passar segurança ao paciente, apresentar os tratamentos, mostrar o consultório e levar o visitante ao contato por WhatsApp.
 
-🔗 **Site no ar:** [COLOQUE_AQUI_O_LINK_DO_SITE](COLOQUE_AQUI_O_LINK_DO_SITE)
+🔗 **Site no ar:** [drrodrigocintra.com.br](drrodrigocintra.com.br)
 
 ## Seções do site
 
